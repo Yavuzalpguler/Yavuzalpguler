@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
-<h3 align="center">I'm an Electronics and Communications Engineering undergrad and a full-time mobile developer.</h3>
+<h3 align="center">I'm an Electronics and Communications Engineering graduate and a full-time mobile developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzalpguler&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzalpguler" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavuzalpguler" alt="yavuzalpguler" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision Based Driving Assistance System**
-
 - 🌱 I’m currently learning **IOS Development and Computer Vision**
 
 - 📝 I regularly write articles on [https://medium.com/@guler.yavuzalp](https://medium.com/@guler.yavuzalp)
 
-- 💬 Ask me about **Deep Learning, React Native, Computer Vision**
+- 💬 Ask me about **React Native, Swift, Computer Vision**
 
 - 📫 How to reach me **guler.yavuzalp@gmail.com**
 
