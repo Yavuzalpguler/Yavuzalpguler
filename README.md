@@ -27,4 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzalpguler&show_icons=true&locale=en" alt="yavuzalpguler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzalpguler&" alt="yavuzalpguler" /></p>
-![](https://hit.yhype.me/github/profile?user_id=35559921)
+
+<p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=35559921" alt="yavuzalpguler" /> </p>
+
+
+
+
