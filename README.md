@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzalpguler&" alt="yavuzalpguler" /></p>
 
-<p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=35559921" alt="yavuzalpguler" /> </p>
+
 
 
 
